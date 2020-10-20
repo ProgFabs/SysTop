@@ -28,13 +28,8 @@ If you want to have a production build, run ```npm run package-mac``` for a Mac 
 
 
 ## Images
-
-### Imgur URL: 
 https://imgur.com/a/b5sNq0I
 
-<img src="https://imgur.com/euU1ca5" title="picture-cpu" width="500" height="500" />
-<img src="https://imgur.com/syiDKf1" title="picture-system-info" width="500" height="500" />
-<img src="https://imgur.com/rHL0taA" title="picture-settings" width="500" height="500" />
 
 
 ## Contribution
